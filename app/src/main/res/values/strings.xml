@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapBySearch</string>
+    <string name="map_key" translatable="false">AIzaSyB-86xjP-am7iO_ObLjrAK-6Apn2clZSXk</string>
+
+</resources>
